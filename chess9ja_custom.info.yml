@@ -1,0 +1,7 @@
+name: Chess9ja Customizations
+description: "Provides customizations for chess9ja."
+package: "Chess9ja"
+type: module
+core: 8.x
+dependencies:
+   - vchess

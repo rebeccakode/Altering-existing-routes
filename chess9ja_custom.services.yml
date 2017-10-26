@@ -1,0 +1,5 @@
+services:
+  chess9ja_custom.route_subscriber:
+    class: Drupal\chess9ja_custom\Routing\RouteSubscriber
+    tags:
+      - { name: event_subscriber }
